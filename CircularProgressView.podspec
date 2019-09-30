@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
   s.name         = "CircularProgressView"
   s.version      = "1.0.0"
-s.authors = ""
+s.authors = { "moin-afnty" => "muhammad.moin@afiniti.com" }
   s.summary      = "Progress with animation in circles"
   s.description  = "This control allows to show progress in circular views."
   s.homepage     = "https://github.com/moin-afnty/CircularProgressView"
